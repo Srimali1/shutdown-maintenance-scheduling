@@ -13,12 +13,12 @@ Instances were generated using benchmark project data from the Resource-Constrai
 
 Five instances were generated for each problem size:
 
--$|J|=5$
--$|J|=6$
--$|J|=7$
--$|J|=8$
--$|J|=10$
--$|J|=15$
+-|J|=5
+-|J|=6
+-|J|=7
+-|J|=8
+-|J|=10
+-|J|=15
 
 Each instance contains:
 
