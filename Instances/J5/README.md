@@ -1,1 +1,1 @@
-Benchmark instances for |J|=5.
+Instances for |J|=5.
